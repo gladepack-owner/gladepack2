@@ -1,0 +1,141 @@
+Gladepack Resource Pack v0.6.0 Safe-for-Work Edition (2021-11-20)
+Created and Compiled By The Gladecraft Community
+
+   This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
+   Gladecraft server. (This text document is not used inside of the Minecraft game.)
+
+---------------------------------------------------------------------------------------------------------------------------
+Credits and Thank You's (by Minecraft Java Edition Username)
+	
+	Character39
+	Echwo
+	FL_CL
+	Hypwr
+	iiMon
+	LogLug
+	LunarIce
+	nonomense
+	o0Icy0o
+	Pyrofox64
+	
+---------------------------------------------------------------------------------------------------------------------------
+Added Resource Packs
+ 1. Enchantment Textures Resource Pack 1.16.3 by Leckaschmecka
+ ----- https://resource-pack.com/enchantment-textures-resource-pack-1-15/ -----
+	Note: This aspect of the pack only works when running an Optifine version of Minecraft.
+
+ 2. Vanilla Tweaks by Xisumavoid
+ ----- https://vanillatweaks.net/picker/resource-packs/ -----
+   a. List of Tweaks
+	-Age 25 Kelp
+	-Alternate Particles
+	-Better Observers
+	-Brewing Guide
+	-Diminishing Tools
+	-Directional Hoppers
+	-HoneyStages
+	-Lower Shield
+	-Ping Color Indicator
+	-Rainbow Experience
+	-Red Iron Golem Flowers
+	-Sticky Piston Sides
+	-Quieter Ghasts
+	-Quieter Minecarts
+	-Quieter Nether Portals
+	-Variated Bookshelves
+	-WHAT Spyglass
+
+Custom Textures and Sounds
+ 1. Ambience Music
+    a. Creative
+	-Creative1 - 
+	-Creative2 - 
+	-Creative3 -
+	-Creative4 - 
+	-Creative5 - 
+	-Creative6 - 
+    b. End
+	-Boss - 
+	-End - 
+    c. Game
+	-Calm1 - 
+	-Calm2 - 
+	-Calm3 - 
+	-Hal1 - 
+	-Hal2 - 
+	-Hal3 - 
+	-Hal4 - 
+	-Nuance1 - 
+	-Nuance2 - 
+	-Piano1 - 
+	-Piano2 - 
+	-Piano 3 -
+    d. Menu
+	-Menu1 - 
+	-Menu2 - 
+	-Menu3 - 
+	-Menu4 - 
+	-Credits - 
+    e. Nether
+	-Chrysopoeia - 
+	-Nether1 - 
+	-Nether2 - 
+	-Nether3 - 
+	-Nether4 - 
+	-Rubedo - 
+	-So Below - 
+    f. Water
+    	-Axolotl - Zora's Domain from The Legend of Zelda: Breath of the Wild
+	-Dragon Fish - Dire Dire Docks from Super Mario 64
+	-Shuniji - 
+ 2. Beds
+	-Removed in Safe for Work Edition
+ -11 - Corruption Theme from Terraria by Re-Logic
+	-13 - English Sailor Moon Intro by Andy Heyward
+	-Blocks - Celeste Core - Say Goodbye Mix by Matthewせいじ
+	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
+	-Chirp - Fortunate Son by Creedence Clearwater Revival
+	-Far - //Reserved by Zack//
+	-Mall - Unknown by Unknown
+	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
+	-Otherside - 
+	-Pigstep - PigFire (Pigstep x Bonfire) Remix by ThatOneGingerFromSP
+	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
+	-Strad - Cruel Angel's Thesis by Yoko Takahashi
+	-Wait - Crystal Peak by Christopher Larkin
+	-Ward - The Devourer of Gods (Terraria Calamity Mod OST) by DM DOKURO
+ 4. Paintings
+	-Alban (1x1) - Stuffed Animal Gang
+	-Aztec (1x1) - Cool Crab
+	-Aztec2 (1x1) - Gladecraft 3 Art
+	-Bomb (1x1) - The Three Stooges
+ 	-Kebab (1x1) - Korok and Link Chibi
+	-Plant (1x1) - 
+	-Wasteland (1x1) - 
+	-Graham (1x2) - 
+	-Wanderer (1x2) - Zero Two in the Franxx
+	-Courbet (2x1) - Celeste Chapter 1 Complete
+	-Creebet (2x1) - FFIXV Il Mheg Loading Screen
+	-Pool (2x1) - Gladecraft 1 Scenery
+	-Sea (2x1) -  Gladecraft Members Beach Scene
+	-Sunset (2x1) - Re:ZERO Bridge Scene 
+	-Bust (2x2) - Disney World Senior Trip 2021 (Epicot)
+	-Match (2x2) - Celeste: Farewell
+	-Skull and Roses (2x2) - LAN Party
+	-Stage (2x2) - Pre-College Hiking
+	-Void (2x2) - 
+	-Wither (2x2) - 
+	-Fighters (4x2) - Camping with the Boys
+	-Donkey Kong (4x3) - The Last Supa
+	-Skeleton (4x3) - Family Picture
+	-Burning Skull (4x4) - Celeste Cover Art
+	-Pigscene (4x4) - 
+	-Pointer (4x4) - FFXIV The Kugane
+
+ 5. Splash Texts can be viewed in .\assets\minecraft\texts\splashes.txt
+
+ 6. Custom Language Overrides
+   a. Beds
+   b. Blocks
+   c. Death Messages
+   d. Records
