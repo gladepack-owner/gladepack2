@@ -1,4 +1,4 @@
-Gladepack Resource Pack v1.1.1 Classic Edition (2022-06-22)
+Gladepack Resource Pack v2.0-a.2022-0901 Classic Edition (2022-09-01)
 Created and Compiled By The Gladecraft Community
 
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
@@ -102,13 +102,13 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 		-Unable to Sleep Message (Monsters)
 
 ----------Music Records----------
- 	-11 				Corruption Theme by Re-Logic from Terraria 
-	-13 				English Sailor Moon Intro by Andy Heyward from Sailor Moon 
-	-Blocks 			Celeste Core - Say Goodbye Mix by Matthewせいじ from Celeste 
-	-Cat 				Shinzou Wo Sasageyo by Linked Horizon from Attack on Titan
+ 	-11 			Corruption Theme by Re-Logic from Terraria 
+	-13 			English Sailor Moon Intro by Andy Heyward from Sailor Moon 
+	-Blocks 		Celeste Core - Say Goodbye Mix by Matthewせいじ from Celeste 
+	-Cat 			Shinzou Wo Sasageyo by Linked Horizon from Attack on Titan
 	-Chirp 			Fortunate Son by Creedence Clearwater Revival
-	-Far 				The Heartwood Theme by Junichi Masuda, Gō Ichinose, Hitomi Sato, Hiromitsu Maeba from Pokemon: Arceus
-	-Five				Tantal/Night by ACE from Xenoblade Chronicles 2
+	-Far 			The Heartwood Theme by Junichi Masuda, Gō Ichinose, Hitomi Sato, Hiromitsu Maeba from Pokemon: Arceus
+	-Five			Tantal/Night by ACE from Xenoblade Chronicles 2
 	-Mall  			The Pioneers by Naoshi Mizuta from FFXI: Seekers of Adoulin
 	-Mellohi 		ENDWALKER by Masayoshi Soken & THE PRIMALS from Final Fantasy XIV
 	-Otherside 		Christmas Eve / Sarajevo (Timeless Version) by Trans-Siberian Orchestra
@@ -125,24 +125,24 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Bomb (1x1) 						The Three Stooges
  	-Kebab (1x1) 						Korok and Link Chibi
 	-Plant (1x1)  						The Boys on the Lake
-	-Wasteland (1x1)  				Bret and Josh Pissing
+	-Wasteland (1x1)  					Bret and Josh Pissing
 	-Graham (1x2) 						Jiggle Physics
-	-Wanderer (1x2)					Zero Two in the Franxx
-	-Courbet (2x1) 					Celeste Chapter 1 Complete
-	-Creebet (2x1) 					FFIXV Il Mheg Loading Screen
+	-Wanderer (1x2)						Zero Two in the Franxx
+	-Courbet (2x1) 						Celeste Chapter 1 Complete
+	-Creebet (2x1) 						FFIXV Il Mheg Loading Screen
 	-Pool (2x1) 						Gladecraft 1 Scenery
-	-Sea (2x1) 							Gladecraft Members Beach Scene
+	-Sea (2x1) 						Gladecraft Members Beach Scene
 	-Sunset (2x1) 						Re:ZERO Bridge Scene 
 	-Bust (2x2) 						Disney World Senior Trip 2021 (Epicot)
 	-Match (2x2) 						Celeste: Farewell
-	-Skull and Roses (2x2) 			LAN Party
+	-Skull and Roses (2x2) 					LAN Party
 	-Stage (2x2) 						Pre-College Hiking
 	-Void (2x2)  						Biscuit!
-	-Wither (2x2)  					Ditto Jar
+	-Wither (2x2)  						Ditto Jar
 	-Fighters (4x2)  					Camping with the Boys
-	-Donkey Kong (4x3) 				The Last Suppa
+	-Donkey Kong (4x3) 					The Last Suppa
 	-Skeleton (4x3) 					Family Picture
-	-Burning Skull (4x4) 			Celeste Cover Art
+	-Burning Skull (4x4) 					Celeste Cover Art
 	-Pigscene (4x4)  					Adam Catgorl
 	-Pointer (4x4)  					FFXIV The Kugane
 
