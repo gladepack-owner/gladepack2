@@ -1,0 +1,58 @@
+§f[Scene opens with an Imperial wagon driving four prisoners down a snowy
+mountain pass. All are seated and bound; the one dressed in finery is gagged.]
+
+§3Ralof: Hey, you. You're finally awake. You were trying to cross the border, right? Walked right into that Imperial ambush, same as us, and that thief over there.
+
+§2Lokir: Damn you Stormcloaks. Skyrim was fine until you came along. Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell. You there. You and me -- we should be here. It's these Stormcloaks the Empire wants. 
+
+§3Ralof: We're all brothers and sisters in binds now, thief. 
+
+§dImperial Soldier: Shut up back there! 
+
+§f[Lokir looks at the gagged man.] 
+
+§2Lokir: And what's wrong with him? 
+
+§3Ralof: Watch your tongue! You're speaking to Ulfric Stormcloak, the true High King. 
+
+§2Lokir: Ulfric? The Jarl of Windhelm? You're the leader of the rebellion. But if they captured you... Oh gods, where are they taking us? 
+
+§3Ralof: I don't know where we're going, but Sovngarde awaits. 
+
+§2Lokir: No, this can't be happening. This isn't happening. 
+
+§3Ralof: Hey, what village are you from, horse thief? 
+
+§2Lokir: Why do you care? 
+
+§3Ralof: A Nord's last thoughts should be of home. 
+
+§2Lokir: Rorikstead. I'm...I'm from Rorikstead. 
+
+§f[They approach the village of Helgen. A soldier calls out to the lead wagon.] 
+
+§dImperial Soldier: General Tullius, sir! The headsman is waiting! 
+
+§6General Tullius: Good. Let's get this over with. 
+
+§2Lokir: Shor, Mara, Dibella, Kynareth, Akatosh. Divines, please help me. 
+
+§3Ralof: Look at him, General Tullius the Military Governor. And it looks like the Thalmor are with him. Damn elves. I bet they had something to do with this. This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod is still making that mead with juniper berries mixed in. Funny...when I was a boy, Imperial walls and towers used to make me feel so safe. 
+
+§f[A man and son watch the prisoners pull into town.] 
+
+§cSon: Who are they, daddy? Where are they going? 
+
+§aFather: You need to go inside, little cub. 
+
+§cSon: Why? I want to watch the soldiers. 
+
+§aFather: Inside the house. Now. 
+
+§f[The wagon stops near the chopping block.] 
+
+§dImperial Soldier: Whoa. 
+
+§2Lokir: Why are they stopping? 
+
+§3Ralof: Why do you think? End of the line.

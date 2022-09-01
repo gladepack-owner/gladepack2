@@ -1,0 +1,151 @@
+Gladepack Resource Pack v1.1.1 Classic Edition (2022-06-22)
+Created and Compiled By The Gladecraft Community
+
+   This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
+   Gladecraft server. (This text document is not used inside of the Minecraft game.)
+
+---------------------------------------------------------------------------------------------------------------------------
+Credits and Thank You's (by Minecraft Java Edition Username)
+	
+	Character39
+	Echwo
+	FieryC_PvP
+	FL_CL
+	Hypwr
+	iiMon
+	LogLug
+	LunarIce
+	nonomense
+	o0Icy0o
+	shyro_pyro
+	
+---------------------------------------------------------------------------------------------------------------------------
+
+===============Added Resource Packs===============
+--------Enchantment Textures Resource Pack 1.16.3 by Leckaschmecka---------
+	(https://resource-pack.com/enchantment-textures-resource-pack-1-15/)
+	Note: This aspect of the pack only works when running an Optifine version of Minecraft.
+
+----------Vanilla Tweaks originally created by Xisumavoid----------
+	(https://vanillatweaks.net/picker/resource-packs/)
+	-Age 25 Kelp
+	-Alternate Particles
+	-Better Observers
+	-Brewing Guide
+	-Diminishing Tools
+	-Directional Hoppers
+	-HoneyStages
+	-Lower Shield
+	-Ping Color Indicator
+	-Rainbow Experience
+	-Red Iron Golem Flowers
+	-Sticky Piston Sides
+	-Quieter Ghasts
+	-Quieter Minecarts
+	-Quieter Nether Portals
+	-Variated Bookshelves
+	-WHAT Spyglass
+
+===========Custom Textures and Sounds============
+
+----------Beds----------
+	-Black Bed 			Albedo from Overlord
+	-Blue 				Tamamo no Mae from Fate: Grand Order
+	-Brown 				Rin Tohsaka from Fate: Stay Night
+	-Cyan 			 	Rem from Re:ZERO
+	-Gray Bed 			2B from NieR: Automata
+	-Green  			Formidable from Azur Lane
+	-Light Blue 			Aqua from Konosuba
+	-Light Gray 			Lappland from Arknights
+	-Lime  				Leonmitchelli Galette des Rois from Dog Days
+	-Magenta  			Senjougahara Hitagi from Bakemonogatari
+	-Orange 			Saber from Fate: Grand Order
+	-Pink  				Nero from A Link Between Worlds
+	-Purple  			Nozomi Kaminashi from Keijo!!!!!!!
+	-Red  				Zero Two from Darling in the Franxx
+	-White  			Emilia from Re:ZERO
+	-Yellow 	 		Yang from RWBY
+
+----------Custom Item Textures----------
+	Note: These are obtained by renaming a specific item a unique name. Optifine is required to view these textures.
+	-All Tools 			"Dinnerbone"
+	-Diamond Sword			"Aegis" (by kn1ght_)
+					"Aegis II (by kn1ght_)
+					"Earth"
+					"End Katana"
+					"Lakeland Sword"
+					"Master Sword"
+					"Rubiks End"
+					"Zenith"
+	-Nametag			"Dinnerbone"
+	-Netherite Sword		"Aegis" (by kn1ght_)
+					"Aegis II" (by kn1ght_)
+					"crescent rose"
+					"Earth"
+					"End Katana"
+					"Lakeland Sword"
+					"Master Sword"
+					"Rubiks End"
+					"Zenith"
+
+----------Custom Language Overrides---------
+	Note: All of the language overrides can be viewed in .\assets\minecraft\lang\en_us.json
+	-Beds
+	-Blocks
+		-Soul Sand
+	-Death Messages
+	-Items
+		-Suspicious Stew
+		-Goat Horn
+	-Records
+	-Other
+		-Unable to Sleep Message (Monsters)
+
+----------Music Records----------
+ 	-11 				Corruption Theme by Re-Logic from Terraria 
+	-13 				English Sailor Moon Intro by Andy Heyward from Sailor Moon 
+	-Blocks 			Celeste Core - Say Goodbye Mix by Matthewせいじ from Celeste 
+	-Cat 				Shinzou Wo Sasageyo by Linked Horizon from Attack on Titan
+	-Chirp 			Fortunate Son by Creedence Clearwater Revival
+	-Far 				The Heartwood Theme by Junichi Masuda, Gō Ichinose, Hitomi Sato, Hiromitsu Maeba from Pokemon: Arceus
+	-Five				Tantal/Night by ACE from Xenoblade Chronicles 2
+	-Mall  			The Pioneers by Naoshi Mizuta from FFXI: Seekers of Adoulin
+	-Mellohi 		ENDWALKER by Masayoshi Soken & THE PRIMALS from Final Fantasy XIV
+	-Otherside 		Christmas Eve / Sarajevo (Timeless Version) by Trans-Siberian Orchestra
+	-Pigstep 		PigFire (Pigstep x Bonfire) Remix by ThatOneGingerFromSP
+	-Stal 			Crucifixus by Coro Musicanova and Fabrizio Barchi
+	-Strad 			Cruel Angel's Thesis by Yoko Takahashi from Neon Genesis Evangelion
+	-Wait 			Scarlet Sky by 伊集加代 from Bungo Stray Dogs
+	-Ward 			The Devourer of Gods by DM DOKURO from Terraria Calamity Mod
+
+----------Paintings----------
+	-Alban (1x1) 						Stuffed Animal Gang
+	-Aztec (1x1) 						Cool Crab
+	-Aztec2 (1x1) 						Gladecraft 3 Art
+	-Bomb (1x1) 						The Three Stooges
+ 	-Kebab (1x1) 						Korok and Link Chibi
+	-Plant (1x1)  						The Boys on the Lake
+	-Wasteland (1x1)  				Bret and Josh Pissing
+	-Graham (1x2) 						Jiggle Physics
+	-Wanderer (1x2)					Zero Two in the Franxx
+	-Courbet (2x1) 					Celeste Chapter 1 Complete
+	-Creebet (2x1) 					FFIXV Il Mheg Loading Screen
+	-Pool (2x1) 						Gladecraft 1 Scenery
+	-Sea (2x1) 							Gladecraft Members Beach Scene
+	-Sunset (2x1) 						Re:ZERO Bridge Scene 
+	-Bust (2x2) 						Disney World Senior Trip 2021 (Epicot)
+	-Match (2x2) 						Celeste: Farewell
+	-Skull and Roses (2x2) 			LAN Party
+	-Stage (2x2) 						Pre-College Hiking
+	-Void (2x2)  						Biscuit!
+	-Wither (2x2)  					Ditto Jar
+	-Fighters (4x2)  					Camping with the Boys
+	-Donkey Kong (4x3) 				The Last Suppa
+	-Skeleton (4x3) 					Family Picture
+	-Burning Skull (4x4) 			Celeste Cover Art
+	-Pigscene (4x4)  					Adam Catgorl
+	-Pointer (4x4)  					FFXIV The Kugane
+
+ ----------Splash Texts----------
+ Note: The full list of splashes can be viewed in .\assets\minecraft\texts\splashes.txt
+
