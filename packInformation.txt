@@ -22,9 +22,10 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 ---------------------------------------------------------------------------------------------------------------------------
 
 ===============Added Resource Packs===============
---------Enchantment Textures Resource Pack 1.16.3 by Leckaschmecka---------
+--------Enchantment Textures Resource Pack 1.16.3 by Leckaschmecka*---------
 	(https://resource-pack.com/enchantment-textures-resource-pack-1-15/)
 	Note: This aspect of the pack only works when running an Optifine version of Minecraft.
+	*Heavily edited to work on newer versions of minecraft
 
 ----------Vanilla Tweaks originally created by Xisumavoid----------
 	(https://vanillatweaks.net/picker/resource-packs/)
