@@ -53,18 +53,18 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Black Bed 			Albedo from Overlord
 	-Blue 				Tamamo no Mae from Fate: Grand Order
 	-Brown 				Rin Tohsaka from Fate: Stay Night
-	-Cyan 			 	Rem from Re:ZERO
+	-Cyan 			 	Sakuya Shirase from Idolmaster Shiny Colors
 	-Gray Bed 			2B from NieR: Automata
 	-Green  			Formidable from Azur Lane
 	-Light Blue 			Aqua from Konosuba
 	-Light Gray 			Lappland from Arknights
 	-Lime  				Leonmitchelli Galette des Rois from Dog Days
-	-Magenta  			Senjougahara Hitagi from Bakemonogatari
+	-Magenta  			Tosa from Azur Lane
 	-Orange 			Saber from Fate: Grand Order
 	-Pink  				Nero from A Link Between Worlds
-	-Purple  			Nozomi Kaminashi from Keijo!!!!!!!
+	-Purple  			Akagi and Kaga from Azur Lane
 	-Red  				Zero Two from Darling in the Franxx
-	-White  			Emilia from Re:ZERO
+	-White  			Enterprise from Azur Lane
 	-Yellow 	 		Yang from RWBY
 
 ----------Custom Item Textures----------
@@ -130,9 +130,9 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Graham (1x2) 						Jiggle Physics
 	-Wanderer (1x2)						Zero Two in the Franxx
 	-Courbet (2x1) 						Celeste Chapter 1 Complete
-	-Creebet (2x1) 						FFIXV Il Mheg Loading Screen
-	-Pool (2x1) 						Gladecraft 1 Scenery
-	-Sea (2x1) 						Gladecraft Members Beach Scene
+	-Creebet (2x1) 						FFXIV Il Mheg Loading Screen
+	-Pool (2x1) 						Gladecraft 1 Spawn Region
+	-Sea (2x1) 						Gladecraft on the Beach
 	-Sunset (2x1) 						Re:ZERO Bridge Scene 
 	-Bust (2x2) 						Disney World Senior Trip 2021 (Epicot)
 	-Match (2x2) 						Celeste: Farewell
