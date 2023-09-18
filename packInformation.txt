@@ -98,6 +98,8 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Items
 		-Suspicious Stew
 		-Goat Horn
+	-Mobs
+		-Piglin and Piglin Brute
 	-Records
 	-Other
 		-Unable to Sleep Message (Monsters)
