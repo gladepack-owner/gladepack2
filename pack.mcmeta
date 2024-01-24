@@ -2,9 +2,9 @@
     "pack": {
         "pack_format": 16,
         "description": "§2§lBlock by block. \n§aClassic Edition v2.0 alpha",
-        "supported_versions": {"min_inclusive": 16}
+        "supported_versions": {"min_inclusive": 16, "max_inclusive": 24}
     },
-    "DISABLEDoverlays": {
+    "DISoverlays": {
         "entries": [{"directory":"nsfw", "formats":{"min_inclusive": 16, "max_inclusive": 24}}]
     }
 }

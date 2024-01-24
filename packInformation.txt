@@ -1,8 +1,10 @@
-Gladepack Resource Pack v2.0-a.2022-0901 Classic Edition (2022-09-01)
+Gladepack Resource Pack v2.0-a.2024-0124 Classic Edition (2024-01-24)
 Created and Compiled By The Gladecraft Community
 
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
    Gladecraft server. (This text document is not used inside of the Minecraft game.)
+
+This pack contains an NSFW mode. To enable, edit pack.mcmeta and change "DISoverlays" to "overlays"
 
 ---------------------------------------------------------------------------------------------------------------------------
 Credits and Thank You's (by Minecraft Java Edition Username)
@@ -49,7 +51,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 
 ===========Custom Textures and Sounds============
 
-----------Beds----------
+----------Beds (NSFW Overlay)----------
 	-Black Bed 			Albedo from Overlord
 	-Blue 				Tamamo no Mae from Fate: Grand Order
 	-Brown 				Rin Tohsaka from Fate: Stay Night
@@ -91,9 +93,9 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 
 ----------Custom Language Overrides---------
 	Note: All of the language overrides can be viewed in .\assets\minecraft\lang\en_us.json
-	-Beds
+	-Beds (NSFW Overlay)
 	-Blocks
-		-Soul Sand
+		-Soul Sand (NSFW Overlay)
 	-Death Messages
 	-Items
 		-Suspicious Stew
@@ -129,7 +131,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
  	-Kebab (1x1) 						Korok and Link Chibi
 	-Plant (1x1)  						The Boys on the Lake
 	-Wasteland (1x1)  					Bret and Josh Pissing
-	-Graham (1x2) 						Jiggle Physics
+	-Graham (1x2) 						Jiggle Physics (NSFW Overlay)
 	-Wanderer (1x2)						Zero Two in the Franxx
 	-Courbet (2x1) 						Celeste Chapter 1 Complete
 	-Creebet (2x1) 						FFXIV Il Mheg Loading Screen
@@ -146,7 +148,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Donkey Kong (4x3) 					The Last Suppa
 	-Skeleton (4x3) 					Family Picture
 	-Burning Skull (4x4) 					Celeste Cover Art
-	-Pigscene (4x4)  					Adam Catgorl
+	-Pigscene (4x4)  					Adam Catgorl (NSFW Overlay)
 	-Pointer (4x4)  					FFXIV The Kugane
 
  ----------Splash Texts----------
