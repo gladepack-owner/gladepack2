@@ -32,11 +32,11 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 ----------Vanilla Tweaks originally created by Xisumavoid----------
 	(https://vanillatweaks.net/picker/resource-packs/)
 	-Age 25 Kelp
-	-Alternate Particles
-	-Better Observers
 	-Brewing Guide
+	-Colorful Enchanting Particles
 	-Diminishing Tools
 	-Directional Hoppers
+	-Directional Observers
 	-HoneyStages
 	-Lower Shield
 	-Ping Color Indicator
@@ -47,7 +47,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Quieter Minecarts
 	-Quieter Nether Portals
 	-Variated Bookshelves
-	-WHAT Spyglass
+	-WHAT Spyglass (Texture only)
 
 ===========Custom Textures and Sounds============
 
