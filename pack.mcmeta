@@ -6,6 +6,6 @@
     },
     "overlays": {
         "entries": [{"directory":"nsfw", "formats":{"min_inclusive": 16, "max_inclusive": 34}},
-        {"directory":"gladatapack", "formats":{"min_inclusive": 16, "max_inclusive": 34}}]
+        {"directory":"glatapack", "formats":{"min_inclusive": 16, "max_inclusive": 34}}]
     }
 }

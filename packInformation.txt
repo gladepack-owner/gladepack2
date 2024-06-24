@@ -4,7 +4,7 @@ Created and Compiled By The Gladecraft Community
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
    Gladecraft server. (This text document is not used inside of the Minecraft game.)
 
-This pack contains an NSFW mode. To enable, edit pack.mcmeta and change "DISoverlays" to "overlays"
+This pack contains an NSFW mode. To enable, edit pack.mcmeta and change "DISABLED_nsfw" to "nsfw"
 
 ---------------------------------------------------------------------------------------------------------------------------
 Credits and Thank You's (by Minecraft Java Edition Username)
