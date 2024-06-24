@@ -74,5 +74,8 @@
   "item.minecraft.music_disc_wait": "Music Disc",
   "item.minecraft.music_disc_wait.desc": "伊集加代 - Scarlet Sky",
   "item.minecraft.music_disc_ward": "Music Disc",
-  "item.minecraft.music_disc_ward.desc": "DM DOKURO - The Devourer of Gods"
+  "item.minecraft.music_disc_ward.desc": "DM DOKURO - The Devourer of Gods",
+  "block.minecraft.suspicious_gravel": "Sussy Gravel",
+  "block.minecraft.suspicious_sand": "Sussy Sand",
+  "item.minecraft.suspicious_stew": "Sussy Stew"
 }

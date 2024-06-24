@@ -71,14 +71,19 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 					"Rubiks End"
 					"Zenith"
 
+----------Mobs----------
+	-Piglin
+	-Piglin Brute
+
 ----------Custom Language Overrides---------
 	Note: All of the language overrides can be viewed in .\assets\minecraft\lang\en_us.json
 	-Death Messages
+	-Blocks
+		-Suspicious Gravel
+		-Suspicious Sand
 	-Items
 		-Suspicious Stew
 		-Goat Horn
-	-Mobs
-		-Piglin and Piglin Brute
 	-Records
 	-Other
 		-Unable to Sleep Message (Monsters)
