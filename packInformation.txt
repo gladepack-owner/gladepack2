@@ -100,34 +100,6 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Wait 			Scarlet Sky by 伊集加代 from Bungo Stray Dogs
 	-Ward 			The Devourer of Gods by DM DOKURO from Terraria Calamity Mod
 
-----------Paintings---------- TO BE UPDATED
-	-Alban (1x1) 						Stuffed Animal Gang
-	-Aztec (1x1) 						Cool Crab
-	-Aztec2 (1x1) 						Gladecraft 3 Art
-	-Bomb (1x1) 						The Three Stooges
- 	-Kebab (1x1) 						Korok and Link Chibi
-	-Plant (1x1)  						The Boys on the Lake
-	-Wasteland (1x1)  					Bret and Josh Pissing
-	-Graham (1x2) 						Jiggle Physics (NSFW Overlay)
-	-Wanderer (1x2)						Zero Two in the Franxx
-	-Courbet (2x1) 						Celeste Chapter 1 Complete
-	-Creebet (2x1) 						FFXIV Il Mheg Loading Screen
-	-Pool (2x1) 						Gladecraft 1 Spawn Region
-	-Sea (2x1) 						Gladecraft on the Beach
-	-Sunset (2x1) 						Re:ZERO Bridge Scene 
-	-Bust (2x2) 						Disney World Senior Trip 2021 (Epicot)
-	-Match (2x2) 						Celeste: Farewell
-	-Skull and Roses (2x2) 					LAN Party
-	-Stage (2x2) 						Pre-College Hiking
-	-Void (2x2)  						Biscuit!
-	-Wither (2x2)  						Ditto Jar
-	-Fighters (4x2)  					Camping with the Boys
-	-Donkey Kong (4x3) 					The Last Suppa
-	-Skeleton (4x3) 					Family Picture
-	-Burning Skull (4x4) 					Celeste Cover Art
-	-Pigscene (4x4)  					Adam Catgorl (NSFW Overlay)
-	-Pointer (4x4)  					FFXIV The Kugane
-
  ----------Splash Texts----------
  Note: The full list of splashes can be viewed in .\assets\minecraft\texts\splashes.txt
 
