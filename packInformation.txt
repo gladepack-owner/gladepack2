@@ -4,8 +4,6 @@ Created and Compiled By The Gladecraft Community
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
    Gladecraft server. (This text document is not used inside of the Minecraft game.)
 
-This pack contains an NSFW mode. To enable, edit pack.mcmeta and change "DISABLED_nsfw" to "nsfw"
-
 ---------------------------------------------------------------------------------------------------------------------------
 Credits and Thank You's (by Minecraft Java Edition Username)
 	
@@ -51,24 +49,6 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 
 ===========Custom Textures and Sounds============
 
-----------Beds (NSFW Overlay)----------
-	-Black Bed 			Albedo from Overlord
-	-Blue 				Tamamo no Mae from Fate: Grand Order
-	-Brown 				Rin Tohsaka from Fate: Stay Night
-	-Cyan 			 	Sakuya Shirase from Idolmaster Shiny Colors
-	-Gray Bed 			2B from NieR: Automata
-	-Green  			Formidable from Azur Lane
-	-Light Blue 			Aqua from Konosuba
-	-Light Gray 			Lappland from Arknights
-	-Lime  				Leonmitchelli Galette des Rois from Dog Days
-	-Magenta  			Tosa from Azur Lane
-	-Orange 			Saber from Fate: Grand Order
-	-Pink  				Nero from A Link Between Worlds
-	-Purple  			Akagi and Kaga from Azur Lane
-	-Red  				Zero Two from Darling in the Franxx
-	-White  			Enterprise from Azur Lane
-	-Yellow 	 		Yang from RWBY
-
 ----------Custom Item Textures----------
 	Note: These are obtained by renaming a specific item a unique name. Optifine is required to view these textures.
 	-All Tools 			"Dinnerbone"
@@ -93,9 +73,6 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 
 ----------Custom Language Overrides---------
 	Note: All of the language overrides can be viewed in .\assets\minecraft\lang\en_us.json
-	-Beds (NSFW Overlay)
-	-Blocks
-		-Soul Sand (NSFW Overlay)
 	-Death Messages
 	-Items
 		-Suspicious Stew
@@ -123,7 +100,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Wait 			Scarlet Sky by 伊集加代 from Bungo Stray Dogs
 	-Ward 			The Devourer of Gods by DM DOKURO from Terraria Calamity Mod
 
-----------Paintings----------
+----------Paintings---------- TO BE UPDATED
 	-Alban (1x1) 						Stuffed Animal Gang
 	-Aztec (1x1) 						Cool Crab
 	-Aztec2 (1x1) 						Gladecraft 3 Art

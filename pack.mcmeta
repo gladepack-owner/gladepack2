@@ -3,9 +3,5 @@
         "pack_format": 34,
         "description": "§2§lBlock by block. \n§aClassic Edition v2.0 alpha",
         "supported_versions": {"min_inclusive": 16, "max_inclusive": 34}
-    },
-    "overlays": {
-        "entries": [{"directory":"nsfw", "formats":{"min_inclusive": 16, "max_inclusive": 34}},
-        {"directory":"glatapack", "formats":{"min_inclusive": 16, "max_inclusive": 34}}]
     }
 }
