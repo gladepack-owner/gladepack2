@@ -88,23 +88,6 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	-Other
 		-Unable to Sleep Message (Monsters)
 
-----------Music Records----------
- 	-11 			Corruption Theme by Re-Logic from Terraria 
-	-13 			English Sailor Moon Intro by Andy Heyward from Sailor Moon 
-	-Blocks 		Celeste Core - Say Goodbye Mix by Matthewせいじ from Celeste 
-	-Cat 			Shinzou Wo Sasageyo by Linked Horizon from Attack on Titan
-	-Chirp 			Fortunate Son by Creedence Clearwater Revival
-	-Far 			The Heartwood Theme by Junichi Masuda, Gō Ichinose, Hitomi Sato, Hiromitsu Maeba from Pokemon: Arceus
-	-Five			Tantal/Night by ACE from Xenoblade Chronicles 2
-	-Mall  			The Pioneers by Naoshi Mizuta from FFXI: Seekers of Adoulin
-	-Mellohi 		ENDWALKER by Masayoshi Soken & THE PRIMALS from Final Fantasy XIV
-	-Otherside 		Christmas Eve / Sarajevo (Timeless Version) by Trans-Siberian Orchestra
-	-Pigstep 		PigFire (Pigstep x Bonfire) Remix by ThatOneGingerFromSP
-	-Stal 			Crucifixus by Coro Musicanova and Fabrizio Barchi
-	-Strad 			Cruel Angel's Thesis by Yoko Takahashi from Neon Genesis Evangelion
-	-Wait 			Scarlet Sky by 伊集加代 from Bungo Stray Dogs
-	-Ward 			The Devourer of Gods by DM DOKURO from Terraria Calamity Mod
-
  ----------Splash Texts----------
  Note: The full list of splashes can be viewed in .\assets\minecraft\texts\splashes.txt
 
