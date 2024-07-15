@@ -1,4 +1,4 @@
-Gladepack Resource Pack v2.0-a.2024-0124 Classic Edition (2024-01-24)
+Gladepack Resource Pack v2.0-alpha20240715 Classic Edition (2024-07-15)
 Created and Compiled By The Gladecraft Community
 
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
